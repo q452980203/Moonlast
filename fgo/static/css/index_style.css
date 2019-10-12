@@ -1,0 +1,24 @@
+body{margin: 0px;padding: 0px;background:#f3f5f7;}
+
+.header{width:100%;height:60px;background:#000;color:#fff;margin-bottom: 10px;box-shadow:2px 2px 3px #aaaaaa;}
+.header .title{float:left;font-size:40px;line-height: 60px;}
+
+.header .login-reg{float: right;line-height: 60px;}
+.header .login-reg button{padding: 5px 15px !important;}
+
+.main{min-height: 800px;}
+.main .imgshow{height:495px;box-shadow:2px 2px 3px #aaaaaa;}
+.main .imgshow img{height:100%;width: 100%;}
+.main .menu{width:100%;height:42px;background:#DCDCDC;margin-bottom: 15px;box-shadow:2px 2px 3px #aaaaaa;padding: 0px!important;}
+.main .menu a{width:7em;text-align: center;color:Black;font-size:15px;font-weight: bold;padding:10px;}
+.main .menu .search{width: 300px;line-height: 43px;float: right;padding-right: 10px;}
+.main .menu .search input{float: unset;}
+
+.main .left-container{border-right: 1px solid #ccc;min-height: 400px;height: auto;}
+.main .left-container a{text-align: center;color:Black;font-size:13px;padding:10px;}
+.main .cates{color: #444;text-align: center;font-size: 16px;padding-top: 10px;padding-bottom: 5px;border-bottom: 1px solid #ccc;}
+.main .cates-list .cates-item{margin-top: 10px;font-size: 15px;color: #444;}
+
+
+
+
